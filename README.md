@@ -1,2 +1,4 @@
 # hello-world
 Hello World project (get started with GitHub)
+
+I am Yaroslav, I am making this project in order to familiarise myself with GitHub.
